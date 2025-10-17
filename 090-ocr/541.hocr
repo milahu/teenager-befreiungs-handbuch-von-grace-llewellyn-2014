@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/541.tiff"; bbox 0 0 3452 5185; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 253 294 3157 4804">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 1268 294 3149 352">
+     <span class='ocr_line' id='line_1_1' title="bbox 1268 294 3149 352; baseline -0.001 0; x_size 75.271118; x_descenders 17.271116; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_1' title='bbox 1268 294 1956 352; x_wconf 92'>Unschool-Bücher</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 1990 294 2129 351; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 2165 294 2433 352; x_wconf 96'>andere</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 2472 294 2782 352; x_wconf 96'>Freunde</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 3011 297 3149 352; x_wconf 96'>541</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='deu' title="bbox 254 618 462 676">
+     <span class='ocr_line' id='line_1_2' title="bbox 254 618 462 676; baseline 0.005 -1; x_size 74.713966; x_descenders 17.713964; x_ascenders 17">
+      <span class='ocrx_word' id='word_1_6' title='bbox 254 618 462 676; x_wconf 96'>Filme:</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 254 841 3100 915">
+     <span class='ocr_line' id='line_1_3' title="bbox 254 841 3100 915; baseline -0 -16; x_size 75; x_descenders 17; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_7' title='bbox 254 860 276 880; x_wconf 43'>*</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 370 841 676 915; x_wconf 82' lang='deu'>Schulfrei.</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 702 844 795 899; x_wconf 96' lang='deu'>Ein</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 819 842 948 899; x_wconf 96'>Film</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 973 842 1124 899; x_wconf 93' lang='deu'>über</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1140 845 1312 899; x_wconf 92' lang='deu'>Lern-</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 1338 841 1461 899; x_wconf 93' lang='deu'>und</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 1480 841 1826 899; x_wconf 91' lang='deu'>Lebenslust</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 1844 859 1965 898; x_wconf 96' lang='deu'>von</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 1990 844 2168 899; x_wconf 95'>Anne</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 2191 843 2379 907; x_wconf 96'>Sono,</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 2406 844 2598 899; x_wconf 93' lang='deu'>2011.</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 2620 841 2848 915; x_wconf 92'>Tologo</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 2868 841 3100 915; x_wconf 95' lang='deu'>Verlag.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='deu' title="bbox 255 952 3157 1250">
+     <span class='ocr_line' id='line_1_4' title="bbox 255 952 3156 1028; baseline -0.001 -17; x_size 76; x_descenders 18; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_21' title='bbox 255 972 276 992; x_wconf 42'>*</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 368 953 680 1028; x_wconf 96'>Alphabet.</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 706 956 897 1028; x_wconf 96' lang='eng'>Angst</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 922 953 1073 1011; x_wconf 96'>oder</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 1094 953 1264 1011; x_wconf 96'>Liebe</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 1286 971 1406 1011; x_wconf 96' lang='eng'>von</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 1440 955 1623 1010; x_wconf 93'>Erwin</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 1649 952 2086 1027; x_wconf 91' lang='eng'>Wagenhofer,</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 2117 956 2309 1010; x_wconf 93' lang='eng'>2013.</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 2341 953 2668 1010; x_wconf 92'>Kritischer</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 2694 953 3156 1011; x_wconf 91'>Dokumentar-</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 374 1064 3157 1139; baseline 0 -17; x_size 75; x_descenders 17; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_32' title='bbox 374 1064 495 1122; x_wconf 96'>film</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 520 1083 660 1123; x_wconf 96'>zum</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 683 1065 923 1123; x_wconf 96'>Thema</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 948 1065 1338 1123; x_wconf 96'>Konkurrenz</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 1362 1067 1416 1122; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 1443 1065 1553 1122; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 1575 1064 1830 1139; x_wconf 96'>Bildung</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 1858 1067 1969 1122; x_wconf 96'>mit</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 1991 1067 2198 1122; x_wconf 96'>einem</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 2221 1064 2334 1122; x_wconf 96'>Teil</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 2359 1065 2512 1122; x_wconf 96'>über</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 2530 1065 2735 1122; x_wconf 96'>Andre</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 2757 1067 2955 1122; x_wconf 96'>Stern.</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 2976 1083 3157 1122; x_wconf 96'>www.</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 372 1176 1011 1250; baseline 0 -16; x_size 74; x_descenders 16; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_46' title='bbox 372 1176 1011 1250; x_wconf 91'>alphabet-film.com</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='deu' title="bbox 255 1286 3156 1474">
+     <span class='ocr_line' id='line_1_7' title="bbox 255 1286 3156 1362; baseline -0 -17; x_size 74; x_descenders 17; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_47' title='bbox 255 1306 277 1327; x_wconf 35'>*</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 373 1290 553 1362; x_wconf 95'>Being</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 570 1288 693 1346; x_wconf 93'>and</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 707 1290 1027 1362; x_wconf 91'>Becoming</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 1041 1306 1162 1345; x_wconf 96'>von</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 1185 1288 1360 1345; x_wconf 93'>Clara</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 1380 1287 1583 1345; x_wconf 92'>Bellar.</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 1604 1290 1796 1345; x_wconf 95'>2014.</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 1819 1286 2378 1345; x_wconf 95'>Dokumentarfilm</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 2401 1287 2554 1345; x_wconf 96'>über</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 2569 1287 2987 1361; x_wconf 93'>europäische</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 3008 1289 3156 1345; x_wconf 93' lang='eng'>Frei-</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 375 1399 1632 1474; baseline -0.001 -18; x_size 76; x_descenders 18; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_59' title='bbox 375 1399 583 1457; x_wconf 90'>lerner.</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 605 1399 1632 1474; x_wconf 92'>www.beingandbecoming.com</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_6' lang='deu' title="bbox 257 1622 3157 1698">
+     <span class='ocr_line' id='line_1_9' title="bbox 257 1622 3157 1698; baseline -0 -19; x_size 75; x_descenders 17; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_61' title='bbox 257 1622 925 1698; x_wconf 87'>Erfahrungsberichte</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 959 1623 1083 1681; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_63' title='bbox 1117 1622 1474 1680; x_wconf 96'>Austausch</span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 1509 1622 1643 1697; x_wconf 96'>gibt</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 1674 1640 1742 1680; x_wconf 95'>es</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 1776 1624 1831 1679; x_wconf 95'>in</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 1868 1622 2068 1696; x_wconf 96'>Blogs,</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 2104 1625 2284 1680; x_wconf 96'>Foren</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 2321 1622 2445 1680; x_wconf 93'>und</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 2482 1622 3157 1696; x_wconf 91'>Facebook-Gruppen.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_7' lang='deu' title="bbox 257 1733 3156 1809">
+     <span class='ocr_line' id='line_1_10' title="bbox 257 1733 3156 1809; baseline -0 -17; x_size 76; x_descenders 18; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_71' title='bbox 257 1737 462 1809; x_wconf 96'>Einige</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 480 1734 731 1792; x_wconf 96' lang='eng'>werden</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 758 1734 887 1792; x_wconf 96'>hier</span>
+      <span class='ocrx_word' id='word_1_74' title='bbox 905 1742 1210 1809; x_wconf 96'>genannt,</span>
+      <span class='ocrx_word' id='word_1_75' title='bbox 1234 1734 1507 1792; x_wconf 96' lang='eng'>aktuelle</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 1532 1733 2023 1791; x_wconf 95' lang='eng'>Informationen</span>
+      <span class='ocrx_word' id='word_1_77' title='bbox 2048 1733 2181 1808; x_wconf 95'>gibt</span>
+      <span class='ocrx_word' id='word_1_78' title='bbox 2203 1751 2271 1791; x_wconf 96' lang='eng'>es</span>
+      <span class='ocrx_word' id='word_1_79' title='bbox 2304 1733 2409 1791; x_wconf 96' lang='eng'>auf</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 2437 1733 2542 1791; x_wconf 96' lang='eng'>den</span>
+      <span class='ocrx_word' id='word_1_81' title='bbox 2565 1736 2779 1791; x_wconf 96' lang='eng'>weiter</span>
+      <span class='ocrx_word' id='word_1_82' title='bbox 2799 1741 2993 1791; x_wconf 93'>unten</span>
+      <span class='ocrx_word' id='word_1_83' title='bbox 3017 1733 3156 1791; x_wconf 92' lang='eng'>auf-</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_8' lang='deu' title="bbox 255 1845 945 1921">
+     <span class='ocr_line' id='line_1_11' title="bbox 255 1845 945 1921; baseline 0.001 -18; x_size 75; x_descenders 17; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_84' title='bbox 255 1845 595 1921; x_wconf 87'>geführten</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 618 1846 945 1904; x_wconf 95' lang='eng'>Websites.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_9' lang='eng' title="bbox 257 2068 2338 2143">
+     <span class='ocr_line' id='line_1_12' title="bbox 257 2068 2338 2143; baseline -0 -17; x_size 74; x_descenders 17; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_86' title='bbox 257 2087 278 2108; x_wconf 0'>e</span>
+      <span class='ocrx_word' id='word_1_87' title='bbox 372 2069 725 2127; x_wconf 77'>zahlreiche</span>
+      <span class='ocrx_word' id='word_1_88' title='bbox 751 2069 1428 2143; x_wconf 91'>Facebook-Gruppen,</span>
+      <span class='ocrx_word' id='word_1_89' title='bbox 1455 2087 1569 2126; x_wconf 93' lang='deu'>u.a.</span>
+      <span class='ocrx_word' id='word_1_90' title='bbox 1595 2069 1919 2126; x_wconf 90'>Freilernen</span>
+      <span class='ocrx_word' id='word_1_91' title='bbox 1943 2070 1997 2125; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_92' title='bbox 2020 2068 2130 2126; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_93' title='bbox 2146 2070 2338 2126; x_wconf 96'>Praxis</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_10' lang='eng' title="bbox 257 2180 1410 2246">
+     <span class='ocr_line' id='line_1_13' title="bbox 257 2180 1410 2246; baseline 0 -9; x_size 75.271118; x_descenders 17.271116; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_94' title='bbox 257 2180 1126 2238; x_wconf 51'> www.freilernerdorf.de</span>
+      <span class='ocrx_word' id='word_1_95' title='bbox 1151 2180 1410 2246; x_wconf 96'>(Forum)</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_11' lang='eng' title="bbox 257 2291 3121 2366">
+     <span class='ocr_line' id='line_1_14' title="bbox 257 2291 3121 2366; baseline -0 -17; x_size 74; x_descenders 17; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_96' title='bbox 257 2310 278 2331; x_wconf 26'>«</span>
+      <span class='ocrx_word' id='word_1_97' title='bbox 372 2292 1032 2366; x_wconf 55'>www.pro-lernen.ch</span>
+      <span class='ocrx_word' id='word_1_98' title='bbox 1055 2323 1096 2330; x_wconf 86'>—</span>
+      <span class='ocrx_word' id='word_1_99' title='bbox 1119 2292 1264 2366; x_wconf 96'>Blog</span>
+      <span class='ocrx_word' id='word_1_100' title='bbox 1291 2292 1400 2349; x_wconf 93'>der</span>
+      <span class='ocrx_word' id='word_1_101' title='bbox 1422 2291 2133 2365; x_wconf 90'>Unschooling-Familie</span>
+      <span class='ocrx_word' id='word_1_102' title='bbox 2158 2291 2556 2349; x_wconf 91'>Gantenbein</span>
+      <span class='ocrx_word' id='word_1_103' title='bbox 2582 2309 2696 2348; x_wconf 96'>aus</span>
+      <span class='ocrx_word' id='word_1_104' title='bbox 2720 2291 2830 2348; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_105' title='bbox 2848 2291 3121 2349; x_wconf 96'>Schweiz</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_12' lang='eng' title="bbox 257 2402 3155 2572">
+     <span class='ocr_line' id='line_1_15' title="bbox 257 2402 3155 2478; baseline -0.001 -17; x_size 76; x_descenders 18; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_106' title='bbox 257 2403 1353 2478; x_wconf 61'> www.schulstube.jiimdo.com</span>
+      <span class='ocrx_word' id='word_1_107' title='bbox 1385 2434 1426 2441; x_wconf 82'>—</span>
+      <span class='ocrx_word' id='word_1_108' title='bbox 1459 2402 1605 2477; x_wconf 96'>Blog</span>
+      <span class='ocrx_word' id='word_1_109' title='bbox 1642 2402 1767 2460; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_110' title='bbox 1798 2402 2077 2460; x_wconf 96'>Website</span>
+      <span class='ocrx_word' id='word_1_111' title='bbox 2110 2405 2285 2460; x_wconf 93'>einer</span>
+      <span class='ocrx_word' id='word_1_112' title='bbox 2312 2402 2653 2460; x_wconf 96' lang='deu'>schweizer</span>
+      <span class='ocrx_word' id='word_1_113' title='bbox 2682 2405 2928 2467; x_wconf 96'>Mutter,</span>
+      <span class='ocrx_word' id='word_1_114' title='bbox 2963 2402 3155 2460; x_wconf 96'>deren</span>
+     </span>
+     <span class='ocr_line' id='line_1_16' title="bbox 377 2514 1159 2572; baseline -0.001 -1; x_size 75.271118; x_descenders 17.271116; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_115' title='bbox 377 2514 597 2572; x_wconf 96'>Kinder</span>
+      <span class='ocrx_word' id='word_1_116' title='bbox 615 2533 687 2572; x_wconf 96'>zu</span>
+      <span class='ocrx_word' id='word_1_117' title='bbox 716 2517 922 2572; x_wconf 91'>Hause</span>
+      <span class='ocrx_word' id='word_1_118' title='bbox 949 2514 1159 2572; x_wconf 91'>lernen</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_13' lang='eng' title="bbox 257 2624 3155 2811">
+     <span class='ocr_line' id='line_1_17' title="bbox 257 2624 3155 2700; baseline 0 -18; x_size 75; x_descenders 17; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_119' title='bbox 257 2625 1455 2700; x_wconf 47'> www.goodbye-schulpflicht.de</span>
+      <span class='ocrx_word' id='word_1_120' title='bbox 1473 2625 1615 2699; x_wconf 51'>—Blog</span>
+      <span class='ocrx_word' id='word_1_121' title='bbox 1639 2627 1747 2683; x_wconf 95'>mit</span>
+      <span class='ocrx_word' id='word_1_122' title='bbox 1763 2624 2126 2699; x_wconf 30'>Sammlung</span>
+      <span class='ocrx_word' id='word_1_123' title='bbox 2144 2642 2262 2682; x_wconf 30'>von</span>
+      <span class='ocrx_word' id='word_1_124' title='bbox 2285 2624 2576 2682; x_wconf 96' lang='deu'>Gründen</span>
+      <span class='ocrx_word' id='word_1_125' title='bbox 2597 2642 2803 2699; x_wconf 96'>gegen</span>
+      <span class='ocrx_word' id='word_1_126' title='bbox 2824 2624 2922 2682; x_wconf 93'>die</span>
+      <span class='ocrx_word' id='word_1_127' title='bbox 2939 2624 3155 2682; x_wconf 91'>Schul-</span>
+     </span>
+     <span class='ocr_line' id='line_1_18' title="bbox 377 2736 1231 2811; baseline -0.001 -17; x_size 73; x_descenders 16; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_128' title='bbox 377 2737 593 2811; x_wconf 92'>pflicht</span>
+      <span class='ocrx_word' id='word_1_129' title='bbox 616 2737 862 2804; x_wconf 96'>(Aktion</span>
+      <span class='ocrx_word' id='word_1_130' title='bbox 889 2738 1003 2795; x_wconf 93'>des</span>
+      <span class='ocrx_word' id='word_1_131' title='bbox 1030 2736 1231 2803; x_wconf 89'>BVNL)</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_14' lang='eng' title="bbox 253 2960 1015 3018">
+     <span class='ocr_line' id='line_1_19' title="bbox 253 2960 1015 3018; baseline -0.001 0; x_size 75.713966; x_descenders 17.713964; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_132' title='bbox 253 2960 576 3018; x_wconf 96'>Websites</span>
+      <span class='ocrx_word' id='word_1_133' title='bbox 599 2978 745 3017; x_wconf 96'>zum</span>
+      <span class='ocrx_word' id='word_1_134' title='bbox 770 2960 1015 3018; x_wconf 95'>Thema</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_15' lang='deu' title="bbox 258 3181 3156 3258">
+     <span class='ocr_line' id='line_1_20' title="bbox 258 3181 3156 3258; baseline -0 -18; x_size 75; x_descenders 17; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_135' title='bbox 258 3183 608 3258; x_wconf 96'>Grundlage</span>
+      <span class='ocrx_word' id='word_1_136' title='bbox 627 3183 717 3241; x_wconf 96'>für</span>
+      <span class='ocrx_word' id='word_1_137' title='bbox 742 3183 903 3241; x_wconf 96'>diese</span>
+      <span class='ocrx_word' id='word_1_138' title='bbox 923 3183 1414 3257; x_wconf 95'>Linksammlung</span>
+      <span class='ocrx_word' id='word_1_139' title='bbox 1434 3185 1509 3240; x_wconf 96' lang='eng'>ist</span>
+      <span class='ocrx_word' id='word_1_140' title='bbox 1526 3183 1622 3240; x_wconf 96' lang='eng'>die</span>
+      <span class='ocrx_word' id='word_1_141' title='bbox 1635 3183 1902 3240; x_wconf 96' lang='eng'>Website</span>
+      <span class='ocrx_word' id='word_1_142' title='bbox 1925 3200 2025 3240; x_wconf 93' lang='eng'>von</span>
+      <span class='ocrx_word' id='word_1_143' title='bbox 2053 3185 2146 3253; x_wconf 91' lang='eng'>Jan</span>
+      <span class='ocrx_word' id='word_1_144' title='bbox 2171 3182 2321 3240; x_wconf 92' lang='eng'>Edel:</span>
+      <span class='ocrx_word' id='word_1_145' title='bbox 2336 3181 3156 3256; x_wconf 90' lang='eng'>www.homeschooling.de.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_16' lang='eng' title="bbox 257 3404 1645 3480">
+     <span class='ocr_line' id='line_1_21' title="bbox 257 3404 1645 3480; baseline -0.001 -17; x_size 75; x_descenders 17; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_146' title='bbox 257 3406 812 3480; x_wconf 91'>Organisationen</span>
+      <span class='ocrx_word' id='word_1_147' title='bbox 841 3405 971 3463; x_wconf 93'>und</span>
+      <span class='ocrx_word' id='word_1_148' title='bbox 994 3405 1263 3463; x_wconf 90'>Vereine</span>
+      <span class='ocrx_word' id='word_1_149' title='bbox 1289 3404 1645 3471; x_wconf 96'>(deutsch):</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_17' lang='eng' title="bbox 258 3625 3156 3920">
+     <span class='ocr_line' id='line_1_22' title="bbox 258 3625 3154 3699; baseline -0.001 -17; x_size 73; x_descenders 17; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_150' title='bbox 258 3644 279 3664; x_wconf 45'>*</span>
+      <span class='ocrx_word' id='word_1_151' title='bbox 377 3627 697 3683; x_wconf 84'>Netzwerk</span>
+      <span class='ocrx_word' id='word_1_152' title='bbox 726 3626 1280 3699; x_wconf 90'>Bildungsfreiheit,</span>
+      <span class='ocrx_word' id='word_1_153' title='bbox 1312 3629 1408 3682; x_wconf 93'>ein</span>
+      <span class='ocrx_word' id='word_1_154' title='bbox 1438 3625 2066 3682; x_wconf 96' lang='deu'>Zusammenschluss</span>
+      <span class='ocrx_word' id='word_1_155' title='bbox 2099 3626 2408 3682; x_wconf 96' lang='deu'>mehrerer</span>
+      <span class='ocrx_word' id='word_1_156' title='bbox 2437 3625 2783 3682; x_wconf 96' lang='deu'>nationaler</span>
+      <span class='ocrx_word' id='word_1_157' title='bbox 2810 3625 2933 3682; x_wconf 92'>und</span>
+      <span class='ocrx_word' id='word_1_158' title='bbox 2967 3628 3154 3681; x_wconf 87'>inter-</span>
+     </span>
+     <span class='ocr_line' id='line_1_23' title="bbox 377 3734 3154 3810; baseline -0 -18; x_size 74; x_descenders 17; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_159' title='bbox 377 3736 722 3794; x_wconf 91'>nationaler</span>
+      <span class='ocrx_word' id='word_1_160' title='bbox 741 3738 1280 3810; x_wconf 90'>Organisationen,</span>
+      <span class='ocrx_word' id='word_1_161' title='bbox 1298 3738 1548 3793; x_wconf 91'>Vereine</span>
+      <span class='ocrx_word' id='word_1_162' title='bbox 1573 3735 1695 3793; x_wconf 93'>und</span>
+      <span class='ocrx_word' id='word_1_163' title='bbox 1716 3734 2260 3792; x_wconf 90'>Wissenschaftler</span>
+      <span class='ocrx_word' id='word_1_164' title='bbox 2278 3753 2483 3809; x_wconf 96'>gegen</span>
+      <span class='ocrx_word' id='word_1_165' title='bbox 2508 3735 2627 3792; x_wconf 95'>den</span>
+      <span class='ocrx_word' id='word_1_166' title='bbox 2654 3737 2707 3791; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_167' title='bbox 2735 3735 3154 3792; x_wconf 96'>Deutschland</span>
+     </span>
+     <span class='ocr_line' id='line_1_24' title="bbox 377 3845 3156 3920; baseline -0.001 -16; x_size 74; x_descenders 17; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_168' title='bbox 377 3847 536 3904; x_wconf 81'>noch</span>
+      <span class='ocrx_word' id='word_1_169' title='bbox 557 3850 773 3904; x_wconf 81'>immer</span>
+      <span class='ocrx_word' id='word_1_170' title='bbox 788 3847 1213 3920; x_wconf 88'>praktizierten</span>
+      <span class='ocrx_word' id='word_1_171' title='bbox 1231 3846 1970 3920; x_wconf 88'>Schul(besuchs)zwang:</span>
+      <span class='ocrx_word' id='word_1_172' title='bbox 1995 3845 3156 3920; x_wconf 90'>www.netzwerk-bildungsfreiheit.de</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_18' lang='eng' title="bbox 257 3956 2738 4023">
+     <span class='ocr_line' id='line_1_25' title="bbox 257 3956 2738 4023; baseline -0.001 -8; x_size 74.271118; x_descenders 17.271116; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_173' title='bbox 257 3976 279 3997; x_wconf 30'>*</span>
+      <span class='ocrx_word' id='word_1_174' title='bbox 377 3961 605 4015; x_wconf 90' lang='deu'>Lernen</span>
+      <span class='ocrx_word' id='word_1_175' title='bbox 633 3960 710 4015; x_wconf 90' lang='deu'>ist</span>
+      <span class='ocrx_word' id='word_1_176' title='bbox 735 3958 953 4023; x_wconf 93'>Leben,</span>
+      <span class='ocrx_word' id='word_1_177' title='bbox 981 3957 1513 4015; x_wconf 96' lang='deu'>Bundesverband</span>
+      <span class='ocrx_word' id='word_1_178' title='bbox 1542 3957 1854 4014; x_wconf 96' lang='deu'>Natürlich</span>
+      <span class='ocrx_word' id='word_1_179' title='bbox 1883 3960 2131 4014; x_wconf 93' lang='deu'>Lernen!</span>
+      <span class='ocrx_word' id='word_1_180' title='bbox 2156 3960 2280 4014; x_wconf 78'>eV.:</span>
+      <span class='ocrx_word' id='word_1_181' title='bbox 2302 3956 2738 4014; x_wconf 91'>www.bvnl.de</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_19' lang='eng' title="bbox 258 4067 2772 4126">
+     <span class='ocr_line' id='line_1_26' title="bbox 258 4067 2772 4126; baseline 0 -2; x_size 74.271118; x_descenders 17.271116; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_182' title='bbox 258 4086 279 4107; x_wconf 60'>*</span>
+      <span class='ocrx_word' id='word_1_183' title='bbox 377 4068 1108 4126; x_wconf 89' lang='deu'>Informationszentrum</span>
+      <span class='ocrx_word' id='word_1_184' title='bbox 1137 4068 1335 4125; x_wconf 96'>Leben</span>
+      <span class='ocrx_word' id='word_1_185' title='bbox 1362 4068 1531 4125; x_wconf 96'>ohne</span>
+      <span class='ocrx_word' id='word_1_186' title='bbox 1554 4068 1796 4125; x_wconf 93'>Schule:</span>
+      <span class='ocrx_word' id='word_1_187' title='bbox 1817 4067 2772 4125; x_wconf 89' lang='deu'>www.leben-ohne-schule.de</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_20' lang='eng' title="bbox 258 4178 1536 4236">
+     <span class='ocr_line' id='line_1_27' title="bbox 258 4178 1536 4236; baseline 0 -1; x_size 74.271118; x_descenders 17.271116; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_188' title='bbox 258 4197 279 4217; x_wconf 60'>*</span>
+      <span class='ocrx_word' id='word_1_189' title='bbox 376 4179 945 4236; x_wconf 68'>Clonlara-Schule:</span>
+      <span class='ocrx_word' id='word_1_190' title='bbox 994 4178 1536 4235; x_wconf 90'>www.clonlara.de</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_21' lang='eng' title="bbox 257 4287 3154 4473">
+     <span class='ocr_line' id='line_1_28' title="bbox 257 4287 3154 4363; baseline -0 -17; x_size 74; x_descenders 17; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_191' title='bbox 257 4307 279 4328; x_wconf 0'>*</span>
+      <span class='ocrx_word' id='word_1_192' title='bbox 373 4289 821 4363; x_wconf 92' lang='deu'>Schulbildung</span>
+      <span class='ocrx_word' id='word_1_193' title='bbox 846 4291 900 4346; x_wconf 70'>in</span>
+      <span class='ocrx_word' id='word_1_194' title='bbox 927 4289 1515 4346; x_wconf 91'>Familieninitiative</span>
+      <span class='ocrx_word' id='word_1_195' title='bbox 1537 4291 1662 4346; x_wconf 71'>e.V.:</span>
+      <span class='ocrx_word' id='word_1_196' title='bbox 1687 4291 1826 4346; x_wconf 96'>Eine</span>
+      <span class='ocrx_word' id='word_1_197' title='bbox 1844 4306 1965 4346; x_wconf 93'>von</span>
+      <span class='ocrx_word' id='word_1_198' title='bbox 1992 4287 2713 4346; x_wconf 90'>Nordrhein-Westfalen</span>
+      <span class='ocrx_word' id='word_1_199' title='bbox 2737 4288 3154 4362; x_wconf 96' lang='deu'>ausgehende</span>
+     </span>
+     <span class='ocr_line' id='line_1_29' title="bbox 377 4399 1746 4473; baseline 0.001 -18; x_size 74; x_descenders 17; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_200' title='bbox 377 4400 899 4457; x_wconf 87'>Elterninitiative:</span>
+      <span class='ocrx_word' id='word_1_201' title='bbox 920 4399 1746 4473; x_wconf 91'>www.homeschooling.de</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_22' lang='eng' title="bbox 257 4508 2440 4583">
+     <span class='ocr_line' id='line_1_30' title="bbox 257 4508 2440 4583; baseline 0 -17; x_size 75; x_descenders 17; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_202' title='bbox 257 4528 278 4548; x_wconf 0'>*</span>
+      <span class='ocrx_word' id='word_1_203' title='bbox 373 4509 982 4583; x_wconf 69'>Selbsthilfegruppe</span>
+      <span class='ocrx_word' id='word_1_204' title='bbox 1007 4509 1649 4583; x_wconf 91'>»Bildungsinitiative</span>
+      <span class='ocrx_word' id='word_1_205' title='bbox 1670 4508 1996 4566; x_wconf 91'>Zukunft«:</span>
+      <span class='ocrx_word' id='word_1_206' title='bbox 2017 4509 2440 4566; x_wconf 89'>www.bi-z.de</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_23' lang='eng' title="bbox 257 4619 3152 4804">
+     <span class='ocr_line' id='line_1_31' title="bbox 257 4619 3152 4694; baseline 0 -18; x_size 75; x_descenders 18; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_207' title='bbox 257 4637 278 4658; x_wconf 70'>*</span>
+      <span class='ocrx_word' id='word_1_208' title='bbox 376 4620 631 4694; x_wconf 92'>Bildung</span>
+      <span class='ocrx_word' id='word_1_209' title='bbox 660 4620 784 4677; x_wconf 92'>und</span>
+      <span class='ocrx_word' id='word_1_210' title='bbox 813 4620 1149 4693; x_wconf 93'>Erziehung</span>
+      <span class='ocrx_word' id='word_1_211' title='bbox 1177 4622 1232 4676; x_wconf 93'>in</span>
+      <span class='ocrx_word' id='word_1_212' title='bbox 1260 4620 1539 4677; x_wconf 96' lang='deu'>Familien</span>
+      <span class='ocrx_word' id='word_1_213' title='bbox 1566 4622 1671 4676; x_wconf 92' lang='deu'>e.V.</span>
+      <span class='ocrx_word' id='word_1_214' title='bbox 1699 4622 1794 4676; x_wconf 93'>Ein</span>
+      <span class='ocrx_word' id='word_1_215' title='bbox 1818 4619 2452 4677; x_wconf 96' lang='deu'>Zusammenschluss</span>
+      <span class='ocrx_word' id='word_1_216' title='bbox 2473 4637 2592 4677; x_wconf 92'>von</span>
+      <span class='ocrx_word' id='word_1_217' title='bbox 2621 4619 3152 4677; x_wconf 91'>Homeschoolfa-</span>
+     </span>
+     <span class='ocr_line' id='line_1_32' title="bbox 376 4729 2987 4804; baseline 0 -18; x_size 75; x_descenders 17; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_218' title='bbox 376 4730 579 4787; x_wconf 91'>milien</span>
+      <span class='ocrx_word' id='word_1_219' title='bbox 605 4748 719 4787; x_wconf 93'>aus</span>
+      <span class='ocrx_word' id='word_1_220' title='bbox 746 4730 1476 4804; x_wconf 63'>Baden-Wirttemberg:</span>
+      <span class='ocrx_word' id='word_1_221' title='bbox 1497 4730 2213 4787; x_wconf 91'>www.homeschool.de</span>
+      <span class='ocrx_word' id='word_1_222' title='bbox 2238 4729 2375 4795; x_wconf 95'>(nur</span>
+      <span class='ocrx_word' id='word_1_223' title='bbox 2396 4730 2486 4787; x_wconf 96'>bis</span>
+      <span class='ocrx_word' id='word_1_224' title='bbox 2511 4733 2685 4787; x_wconf 92'>2006</span>
+      <span class='ocrx_word' id='word_1_225' title='bbox 2710 4729 2987 4804; x_wconf 96' lang='deu'>geführt)</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

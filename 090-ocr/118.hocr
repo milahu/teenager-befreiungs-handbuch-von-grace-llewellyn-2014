@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/118.tiff"; bbox 0 0 3387 5164; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 257 286 3157 777">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 257 286 3157 777">
+     <span class='ocr_line' id='line_1_1' title="bbox 258 286 1869 363; baseline 0.001 -18; x_size 77; x_descenders 18; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_1' title='bbox 258 290 401 347; x_wconf 96'>118</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 634 289 758 346; x_wconf 96'>Das</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 786 289 1101 363; x_wconf 93'>Teenager</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 1123 286 1495 362; x_wconf 91'>Befreiungs</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 1522 287 1869 346; x_wconf 96'>Handbuch</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 257 606 3157 681; baseline 0 -17; x_size 74; x_descenders 17; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_6' title='bbox 257 607 843 665; x_wconf 90'>einschneidenden</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 866 607 1397 681; x_wconf 95'>Veränderungen</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 1426 609 1481 663; x_wconf 95'>in</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 1510 606 1702 664; x_wconf 96'>ihrem</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1730 609 2000 680; x_wconf 96'>eigenen</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 2031 606 2229 664; x_wconf 95'>Leben</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 2258 608 2582 680; x_wconf 93'>inspiriert.</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 2608 606 2801 664; x_wconf 92'>Stehe</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 2828 608 2939 663; x_wconf 96'>mit</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 2962 606 3157 664; x_wconf 96'>stolze</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 259 718 921 777; baseline 0 -1; x_size 74.76722; x_descenders 17.767221; x_ascenders 17">
+      <span class='ocrx_word' id='word_1_16' title='bbox 259 721 465 776; x_wconf 92'>Miene</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 491 718 694 777; x_wconf 96'>hinter</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 714 718 921 776; x_wconf 96'>ihnen.</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

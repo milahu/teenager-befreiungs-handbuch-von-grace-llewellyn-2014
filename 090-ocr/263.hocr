@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/263.tiff"; bbox 0 0 3343 5182; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 320 286 3063 797">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 320 286 3063 797">
+     <span class='ocr_line' id='line_1_1' title="bbox 1141 286 3061 361; baseline 0.001 -16; x_size 75; x_descenders 16; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_1' title='bbox 1141 286 1666 361; x_wconf 95'>Wissenschaft</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 1703 287 1842 346; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 1881 287 2173 345; x_wconf 96'>Technik</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 2210 287 2395 345; x_wconf 96'>ohne</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 2431 287 2687 345; x_wconf 96'>Schule</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 2917 290 3061 346; x_wconf 96'>263</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 320 618 3063 682; baseline -0.001 -13; x_size 63; x_descenders 14; x_ascenders 15">
+      <span class='ocrx_word' id='word_1_7' title='bbox 320 621 694 677; x_wconf 96'>Schwimmen,</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 714 620 1006 676; x_wconf 96'>Skifahren,</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 1029 622 1206 669; x_wconf 96'>meine</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1229 620 1380 669; x_wconf 96'>Liebe</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1399 635 1489 669; x_wconf 96'>zur</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1507 622 1672 669; x_wconf 96'>Natur</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 1689 619 1795 669; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 1817 619 1914 668; x_wconf 93'>das</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 1930 619 2307 682; x_wconf 92'>Verschlingen</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 2328 619 2454 668; x_wconf 96'>aller</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 2472 619 2682 675; x_wconf 95'>Bücher,</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 2703 619 2788 668; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 2809 618 2888 668; x_wconf 96'>ich</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 2911 620 2958 667; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 2979 618 3063 668; x_wconf 96'>die</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 323 733 825 797; baseline 0.002 -16; x_size 64; x_descenders 15; x_ascenders 15">
+      <span class='ocrx_word' id='word_1_22' title='bbox 323 735 503 797; x_wconf 95'>Finger</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 521 733 825 783; x_wconf 96'>bekomme!</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

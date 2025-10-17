@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/543.tiff"; bbox 0 0 3444 5173; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 249 283 3155 1464">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 1267 283 3155 342">
+     <span class='ocr_line' id='line_1_1' title="bbox 1267 283 3155 342; baseline 0 0; x_size 75.257393; x_descenders 17.257395; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_1' title='bbox 1267 284 1954 342; x_wconf 91'>Unschool-Bücher</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 1989 284 2128 341; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 2164 283 2432 341; x_wconf 96'>andere</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 2470 283 2781 341; x_wconf 96'>Freunde</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 3010 286 3155 342; x_wconf 96'>543</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='deu' title="bbox 249 607 2582 906">
+     <span class='ocr_line' id='line_1_2' title="bbox 249 607 1592 682; baseline -0.001 -16; x_size 75; x_descenders 17; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_6' title='bbox 249 607 470 666; x_wconf 95'>Große</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 497 608 1010 666; x_wconf 96'>internationale</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 1036 607 1592 682; x_wconf 96'>Organisationen</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 251 829 2582 906; baseline -0.001 -17; x_size 76; x_descenders 18; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_9' title='bbox 371 834 571 889; x_wconf 92' lang='eng'>Home</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 594 831 932 906; x_wconf 96' lang='eng'>Schooling</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 958 830 1300 898; x_wconf 95'>(Methods,</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1328 830 1645 905; x_wconf 96'>Planning,</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 1673 832 2033 896; x_wconf 96' lang='eng'>Resources,</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 2059 829 2582 904; x_wconf 96'>Organisations):</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 252 942 2894 1464">
+     <span class='ocr_line' id='line_1_4' title="bbox 367 942 1508 1018; baseline -0.001 -18; x_size 75; x_descenders 17; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_15' title='bbox 367 942 1508 1018; x_wconf 88'>www.myhomeschoolingweb.com</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 252 1054 2297 1130; baseline -0 -17; x_size 76; x_descenders 18; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_16' title='bbox 252 1073 274 1094; x_wconf 35'>«</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 372 1058 572 1113; x_wconf 96'>Home</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 594 1055 825 1113; x_wconf 96'>School</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 851 1055 1028 1130; x_wconf 96'>Legal</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 1054 1054 1329 1113; x_wconf 96'>Defense</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 1352 1056 1771 1112; x_wconf 93'>Association:</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 1792 1054 2297 1128; x_wconf 88'>www.hslda.org</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 252 1166 2438 1240; baseline -0.001 -16; x_size 74; x_descenders 17; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_23' title='bbox 252 1185 274 1206; x_wconf 49'>*</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 372 1167 663 1224; x_wconf 85'>National</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 689 1169 888 1224; x_wconf 96'>Home</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 915 1166 1254 1224; x_wconf 96'>Education</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 1283 1166 1587 1224; x_wconf 96'>Research</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 1616 1168 1918 1223; x_wconf 92'>Institute:</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 1939 1166 2438 1240; x_wconf 92'>www.nheri.org</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 253 1277 1878 1336; baseline -0.001 -1; x_size 75.69989; x_descenders 17.699892; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_30' title='bbox 373 1277 1878 1336; x_wconf 86'>Homeschool</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 844 1273 1061 1357; x_wconf 93'>World:</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 1096 1277 1878 1336; x_wconf 89'>www.home-school.com</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 253 1387 2894 1464; baseline -0.001 -16; x_size 74; x_descenders 17; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_33' title='bbox 253 1408 274 1429; x_wconf 55' lang='deu'>°</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 370 1390 544 1448; x_wconf 40'>ePals</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 564 1421 606 1428; x_wconf 78' lang='deu'>—</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 627 1390 726 1448; x_wconf 96' lang='deu'>die</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 746 1390 1040 1448; x_wconf 92'>weltweit</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 1062 1388 1289 1464; x_wconf 93' lang='deu'>größte</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 1315 1387 2339 1463; x_wconf 91'>Online-Klassengemeinschaft:</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 2360 1388 2894 1462; x_wconf 90'>www.epals.com</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

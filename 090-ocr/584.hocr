@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/584.tiff"; bbox 0 0 3462 5149; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 271 261 3176 1086">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 271 261 1883 338">
+     <span class='ocr_line' id='line_1_1' title="bbox 271 261 1883 338; baseline 0.001 -18; x_size 77; x_descenders 18; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_1' title='bbox 271 265 421 320; x_wconf 96'>584</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 650 265 773 320; x_wconf 96'>Das</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 803 265 1116 337; x_wconf 93'>Teenager</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 1137 261 1509 338; x_wconf 91'>Befreiungs</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 1536 262 1883 321; x_wconf 96'>Handbuch</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='deu' title="bbox 273 583 624 657">
+     <span class='ocr_line' id='line_1_2' title="bbox 273 583 624 657; baseline 0.006 -18; x_size 74; x_descenders 17; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_6' title='bbox 273 601 295 622; x_wconf 65'>*</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 392 583 624 657; x_wconf 96' lang='eng'>Boggle</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 273 697 722 752">
+     <span class='ocr_line' id='line_1_3' title="bbox 273 697 722 752; baseline 0 -1; x_size 70.902611; x_descenders 16.902609; x_ascenders 15">
+      <span class='ocrx_word' id='word_1_8' title='bbox 273 712 295 733; x_wconf 68'>*</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 392 697 722 752; x_wconf 86' lang='deu'>Letra-Mix</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 273 805 635 863">
+     <span class='ocr_line' id='line_1_4' title="bbox 273 805 635 863; baseline 0 -1; x_size 73.469208; x_descenders 16.46921; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_10' title='bbox 273 823 294 844; x_wconf 31'>*</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 387 805 635 863; x_wconf 78' lang='deu'>Wortfix</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='deu' title="bbox 273 917 3176 1086">
+     <span class='ocr_line' id='line_1_5' title="bbox 273 917 3176 993; baseline 0 -18; x_size 75; x_descenders 17; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_12' title='bbox 273 935 295 955; x_wconf 51'>*</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 389 917 588 975; x_wconf 92' lang='eng'>selbst</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 608 917 952 991; x_wconf 96'>gestaltete</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 972 917 1175 991; x_wconf 96' lang='eng'>Spiele</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 1192 920 1305 975; x_wconf 93'>wie</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 1324 918 1611 983; x_wconf 91'>Zahlen-,</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 1635 918 1917 976; x_wconf 92'>Rechen-</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 1949 918 2095 976; x_wconf 93'>oder</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 2107 919 2561 993; x_wconf 91'>Wörterbingo,</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 2579 919 3008 993; x_wconf 91'>Würfelspiele</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 3029 919 3176 977; x_wconf 96' lang='eng'>aller</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 388 1028 936 1086; baseline 0.004 -2; x_size 74.336014; x_descenders 17.33601; x_ascenders 17">
+      <span class='ocrx_word' id='word_1_23' title='bbox 388 1031 494 1085; x_wconf 96'>Art</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 518 1028 641 1086; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 667 1028 936 1086; x_wconf 96'>anderes</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

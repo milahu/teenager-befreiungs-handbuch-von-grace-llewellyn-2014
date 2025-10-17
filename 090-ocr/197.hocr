@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/197.tiff"; bbox 0 0 3354 5183; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 684 569 2572 1231">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 684 569 2572 1231">
+     <span class='ocr_line' id='line_1_1' title="bbox 1443 569 1808 686; baseline 0.008 -3; x_size 152.06493; x_descenders 37.064922; x_ascenders 34">
+      <span class='ocrx_word' id='word_1_1' title='bbox 1443 569 1679 686; x_wconf 95'>Teil</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 1731 575 1808 686; x_wconf 96'>3</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 684 1081 2572 1231; baseline -0.001 -35; x_size 151; x_descenders 36; x_ascenders 36">
+      <span class='ocrx_word' id='word_1_3' title='bbox 684 1081 1990 1197; x_wconf 92'>Gesamtkunstwerk</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 2036 1082 2572 1231; x_wconf 96'>Bildung</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

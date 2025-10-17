@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/595.tiff"; bbox 0 0 3552 5460; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 359 358 3455 5014">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 359 358 3457 5010">
+     <span class='ocr_line' id='line_1_1' title="bbox 1095 358 2441 547; baseline -0.001 -44; x_size 191; x_descenders 45; x_ascenders 46">
+      <span class='ocrx_word' id='word_1_1' title='bbox 1095 362 1584 503; x_wconf 96'>Grace</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 1652 358 2441 547; x_wconf 96'>Llewellyn</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1304 891 2250 1267; baseline 0.011 -10; x_size 445.15994; x_descenders 77.159943; x_ascenders 131.68852">
+      <span class='ocrx_word' id='word_1_3' title='bbox 1304 891 2250 1267; x_wconf 96'>DAS</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 517 1535 3031 1915; baseline 0.002 -9; x_size 362.90213; x_descenders 62.90213; x_ascenders 107.35477">
+      <span class='ocrx_word' id='word_1_4' title='bbox 517 1535 3031 1915; x_wconf 96'>TEENAGER</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 359 2183 3198 2564; baseline 0.004 -9; x_size 360.48279; x_descenders 62.482784; x_ascenders 106.63908">
+      <span class='ocrx_word' id='word_1_5' title='bbox 359 2183 3198 2564; x_wconf 90'>BEFREIUNGS</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 453 2830 3095 3214; baseline 0.003 -11; x_size 470.30237; x_descenders 97.302353; x_ascenders 75">
+      <span class='ocrx_word' id='word_1_6' title='bbox 453 2830 3095 3214; x_wconf 92'>HANDBUCH</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 414 3541 3130 3779; baseline 0.001 -58; x_size 235; x_descenders 55; x_ascenders 56">
+      <span class='ocrx_word' id='word_1_7' title='bbox 414 3541 1397 3725; x_wconf 96' lang='deu'>Glücklich</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 1487 3544 1875 3723; x_wconf 93'>und</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 1960 3543 3130 3779; x_wconf 96' lang='deu'>erfolgreich</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 1124 3843 2428 4028; baseline 0.003 -4; x_size 220.81474; x_descenders 40.814747; x_ascenders 55">
+      <span class='ocrx_word' id='word_1_10' title='bbox 1124 3843 1652 4026; x_wconf 96' lang='deu'>ohne</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1725 3845 2428 4028; x_wconf 96' lang='deu'>Schule</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 382 4790 3455 5014; baseline 0.003 -96; x_size 155; x_descenders 23; x_ascenders 56">
+      <span class='ocrx_word' id='word_1_12' title='bbox 382 4826 1029 4922; x_wconf 96' lang='deu'>Überarbeitete</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 1067 4847 1232 4922; x_wconf 96' lang='deu'>und</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 1271 4847 1749 4924; x_wconf 96' lang='deu'>erweiterte</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 1786 4848 2310 4948; x_wconf 96' lang='deu'>Neuauflage</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 2587 4790 3455 5014; x_wconf 0' lang='deu'>CWeniusVerlag</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
