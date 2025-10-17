@@ -22,6 +22,7 @@
      <span class='ocr_line' id='line_1_2' title="bbox 650 735 2334 843; baseline 0.004 -6.977; x_size 134.83768; x_descenders 31.837671; x_ascenders 31">
       <span class='ocrx_word' id='word_1_6' title='bbox 650 735 1618 840; x_wconf 96'>überarbeiteten</span>
       <span class='ocrx_word' id='word_1_7' title='bbox 1668 737 2334 843; x_wconf 96'>deutschen</span>
+      <span class='ocrx_word' id='word_1_7a' title='bbox 2386 737 3174 880; x_wconf 96'>Neuausgabe</span>
      </span>
      <span class='ocr_line' id='line_1_3' title="bbox 317 1058 3216 1134; baseline 0.002 -19; x_size 74; x_descenders 17; x_ascenders 18">
       <span class='ocrx_word' id='word_1_8' title='bbox 317 1058 418 1115; x_wconf 96'>Als</span>
@@ -50,7 +51,8 @@
       <span class='ocrx_word' id='word_1_29' title='bbox 2248 1173 2565 1230; x_wconf 95'>Trotzdem</span>
       <span class='ocrx_word' id='word_1_30' title='bbox 2587 1173 2796 1231; x_wconf 94'>lernen</span>
       <span class='ocrx_word' id='word_1_31' title='bbox 2817 1176 2906 1231; x_wconf 93' lang='eng'>sie</span>
-      <span class='ocrx_word' id='word_1_32' title='bbox 2924 1174 3215 1231; x_wconf 91' lang='eng'>aufihren</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 2924 1174 3036 1231; x_wconf 91' lang='eng'>auf</span>
+      <span class='ocrx_word' id='word_1_32a' title='bbox 3047 1174 3215 1231; x_wconf 91' lang='eng'>ihren</span>
      </span>
      <span class='ocr_line' id='line_1_5' title="bbox 315 1281 3215 1343; baseline 0.001 -5; x_size 75.245407; x_descenders 17.245405; x_ascenders 19">
       <span class='ocrx_word' id='word_1_33' title='bbox 315 1281 587 1338; x_wconf 96'>Wunsch</span>
@@ -371,7 +373,8 @@
      </span>
      <span class='ocr_line' id='line_1_28' title="bbox 316 3844 3227 3925; baseline -0.002 -17; x_size 76; x_descenders 18; x_ascenders 19">
       <span class='ocrx_word' id='word_1_292' title='bbox 316 3850 1052 3925; x_wconf 91'>Alltagsschilderungen</span>
-      <span class='ocrx_word' id='word_1_293' title='bbox 1077 3847 1986 3922; x_wconf 79'>freilernenderjugendlicher</span>
+      <span class='ocrx_word' id='word_1_293' title='bbox 1077 3847 1537 3922; x_wconf 79'>freilernender</span>
+      <span class='ocrx_word' id='word_1_293a' title='bbox 1986 3847 1546 3922; x_wconf 79'>Jugendlicher</span>
       <span class='ocrx_word' id='word_1_294' title='bbox 2001 3865 2115 3904; x_wconf 79'>aus</span>
       <span class='ocrx_word' id='word_1_295' title='bbox 2135 3846 2257 3905; x_wconf 96'>den</span>
       <span class='ocrx_word' id='word_1_296' title='bbox 2281 3848 2436 3912; x_wconf 95'>USA,</span>
