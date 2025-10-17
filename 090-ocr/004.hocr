@@ -82,7 +82,7 @@
      </span>
      <span class='ocr_line' id='line_1_12' title="bbox 934 3362 2568 3437; baseline 0.001 -18; x_size 74; x_descenders 17; x_ascenders 19">
       <span class='ocrx_word' id='word_1_47' title='bbox 934 3363 1707 3437; x_wconf 90' lang='eng'>www.genius-verlag.de</span>
-      <span class='ocrx_word' id='word_1_48' title='bbox 1732 3381 1754 3401; x_wconf 40' lang='eng'>*</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 1732 3381 1754 3401; x_wconf 40' lang='eng'>•</span>
       <span class='ocrx_word' id='word_1_49' title='bbox 1781 3362 2568 3436; x_wconf 80' lang='eng'>info@genius-verlag.de</span>
      </span>
      <span class='ocr_line' id='line_1_13' title="bbox 1048 3807 2464 3882; baseline -0.001 -17; x_size 75; x_descenders 17; x_ascenders 19">
@@ -92,7 +92,7 @@
      </span>
      <span class='ocr_line' id='line_1_14' title="bbox 1075 4241 2438 4326; baseline 0.001 -17; x_size 74; x_descenders 17; x_ascenders 18">
       <span class='ocrx_word' id='word_1_53' title='bbox 1075 4252 1395 4309; x_wconf 93' lang='eng'>Deutsche</span>
-      <span class='ocrx_word' id='word_1_54' title='bbox 1421 4241 1875 4326; x_wconf 90' lang='eng'>Ubersetzung:</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 1421 4241 1875 4326; x_wconf 90' lang='eng'>Übersetzung:</span>
       <span class='ocrx_word' id='word_1_55' title='bbox 1903 4255 2174 4326; x_wconf 96' lang='eng'>Dagmar</span>
       <span class='ocrx_word' id='word_1_56' title='bbox 2195 4252 2438 4310; x_wconf 96' lang='eng'>Mallett</span>
      </span>
