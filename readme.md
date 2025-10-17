@@ -1,12 +1,66 @@
-# TODO_BOOK_AUTHOR_NAME_YEAR
+# Grace Llewellyn - Das Teenager Befreiungs Handbuch (2014)
 
-![TODO_BOOK_AUTHOR_NAME_YEAR](cover.webp)
+![Grace Llewellyn - Das Teenager Befreiungs Handbuch (2014)](cover.webp)
 
-TODO_BOOK_STORE_URL
+https://www.amazon.de/dp/3934719570
 
 <blockquote>
 
-TODO_BOOK_STORE_DESCRIPTION
+Das Teenager Befreiungs Handbuch: Glücklich und erfolgreich ohne Schule
+
+Dagmar Neubronner (Herausgeber),
+Luise Fuchs (Herausgeber),
+Grace Llewellyn (Autor),
+Dagmar Mallett (Übersetzer)
+
+3.6 out of 5 stars, (7) ratings
+
+'Dieses Buch ist gefährlich.
+Es widerspricht allen üblichen Weisheiten über Schulabbrecher und die Wichtigkeit von Schulabschlüssen.
+Es wirkt belebend und inspirierend.
+Lassen Sie dieses Buch auf keinen Fall in die Hände eines aufgeweckten,
+frustrierten Jugendlichen gelangen, den das Schulsystem anödet.
+Die Autorin kann für das daraus möglicherweise entstehende Glück
+und das Gefühl von Eigenverantwortung keinerlei Verantwortung übernehmen.'
+
+'Dein Leben, deine Zeit und dein Gehirn sollten keiner Institution gehören, sondern dir.'
+
+Dieses Handbuch ist für alle, die jemals zur Schule gegangen sind,
+aber es ist ganz besonders ein Buch für Teenager und Leute,
+die viel mit Teenagern zu tun haben.
+
+Aus dem Inhalt:
+
+- gute Gründe, über den Abschied von der Schule nachzudenken
+- wie du deine natürliche Fähigkeit, dein eigener Lehrer zu sein, wiederentdeckst
+- wie du die Unterstützung deiner Eltern gewinnst, deine Freunde behältst und mit den Behörden klarkommst
+- wie du dir dein ureigenes spannendes Bildungsprogramm maßschneiderst
+- wie du studierst, ohne vorher zum Gymnasium zu gehen
+- wie du ehrenamtliche Jobs, Praktika, und andere Gelegenheiten zur praktischen Arbeit findest
+- wie andere Teenager weltweit ohne Schule leben und lernen.
+
+Moritz und Thomas Neubronner gehen nicht zur Schule und sind deswegen bundesweit bekannt geworden.
+Ihre Eltern, die Inhaber des Genius Verlages,
+waren zunächst sehr frustriert über den Schulstreik ihrer Kinder.
+
+Inzwischen haben sie verstanden,
+dass ihre Kinder ohne Schule mehr und lieber lernen und vor allem viel glücklicher sind –
+wie Millionen Kinder weltweit.
+
+Dieses Buch zeigt konkret, wie das geht – auch in Deutschland.
+
+- Herausgeber: Genius Verlag
+- Erscheinungstermin: 1. November 2014
+- Auflage: 2., Bearbeitete und erweiterte Neuauflage
+- Sprache: Deutsch
+- Seitenzahl der Print-Ausgabe: 590 Seiten
+- ISBN-10: 3934719570
+- ISBN-13: 9783934719576
+- Abmessungen: 14.9 x 4 x 23.1 cm
+- Amazon Bestseller-Rang:
+  - Nr. 956.402 in Bücher
+  - Nr. 3.655 in Schulratgeber
+  - Nr. 132.407 in Schule & Lernen
 
 </blockquote>
 
@@ -20,7 +74,7 @@ TODO_BOOK_TORRENT_MAGNET_LINK
 
 ## mirrors
 
-- https://github.com/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://git.dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
+- https://github.com/milahu/teenager-befreiungs-handbuch-von-grace-llewellyn-2014
+- http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/milahu/teenager-befreiungs-handbuch-von-grace-llewellyn-2014
+- http://git.dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/milahu/teenager-befreiungs-handbuch-von-grace-llewellyn-2014
+- http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu/teenager-befreiungs-handbuch-von-grace-llewellyn-2014
