@@ -20,9 +20,6 @@
       <span class='ocrx_word' id='word_1_3' title='bbox 944 1216 1361 1414; x_wconf 96'>Das</span>
       <span class='ocrx_word' id='word_1_4' title='bbox 1458 1216 2628 1476; x_wconf 95'>Teenager</span>
      </span>
-     <span class='ocr_line' id='line_1_3' title="bbox 1097 1523 1140 1564; baseline 0 0; x_size 53.159874; x_descenders 12.159873; x_ascenders 13.358859">
-      <span class='ocrx_word' id='word_1_5' title='bbox 1097 1523 1140 1564; x_wconf 45'>©</span>
-     </span>
      <span class='ocr_line' id='line_1_4' title="bbox 407 1519 3134 1791; baseline 0.001 -66; x_size 272; x_descenders 64; x_ascenders 64">
       <span class='ocrx_word' id='word_1_6' title='bbox 407 1519 1771 1791; x_wconf 90'>Befreiungs</span>
       <span class='ocrx_word' id='word_1_7' title='bbox 1866 1523 3134 1733; x_wconf 96'>Handbuch</span>
@@ -41,7 +38,7 @@
       <span class='ocrx_word' id='word_1_14' title='bbox 1452 2792 1613 2848; x_wconf 96'>von</span>
       <span class='ocrx_word' id='word_1_15' title='bbox 1652 2770 2012 2871; x_wconf 93'>Dagmar</span>
       <span class='ocrx_word' id='word_1_16' title='bbox 2039 2766 2360 2848; x_wconf 89'>Mallett</span>
-      <span class='ocrx_word' id='word_1_17' title='bbox 2391 2765 2493 2860; x_wconf 87'>(t)</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 2391 2765 2493 2860; x_wconf 87'>(†)</span>
      </span>
      <span class='ocr_line' id='line_1_8' title="bbox 362 3034 3178 3139; baseline 0 -25; x_size 105; x_descenders 24; x_ascenders 26">
       <span class='ocrx_word' id='word_1_18' title='bbox 362 3039 836 3116; x_wconf 96'>Erweiterte</span>
@@ -59,7 +56,7 @@
       <span class='ocrx_word' id='word_1_28' title='bbox 2073 3168 2620 3250; x_wconf 92'>Neubronner</span>
      </span>
      <span class='ocr_line' id='line_1_10' title="bbox 1242 4521 2288 4773; baseline -0.003 -69; x_size 153.79436; x_descenders 30.794357; x_ascenders 53">
-      <span class='ocrx_word' id='word_1_29' title='bbox 1242 4521 2288 4773; x_wconf 0'>CHeniusVerlag</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 1242 4521 2288 4773; x_wconf 0'>Genius Verlag</span>
      </span>
     </p>
    </div>
