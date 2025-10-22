@@ -78,3 +78,13 @@ magnet:?xt=urn:btih:e1528946d613013443346225c8a6addaea7b3329&dn=teenager.befreiu
 - http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/milahu/teenager-befreiungs-handbuch-von-grace-llewellyn-2014
 - http://git.dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/milahu/teenager-befreiungs-handbuch-von-grace-llewellyn-2014
 - http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu/teenager-befreiungs-handbuch-von-grace-llewellyn-2014
+
+
+
+## template
+
+this repo is based on
+[github.com/milahu/hocr-files-template-repo](https://github.com/milahu/hocr-files-template-repo).
+if you want to copy this repo,
+then please copy the template repo,
+which has the latest versions of all files.
